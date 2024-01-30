@@ -101,6 +101,10 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 docker pull debian
 docker run --detach -it debian
 ```
+Terminal Code :
+
+<img width="531" alt="Screenshot 2024-01-30 215917" src="https://github.com/sofiatunnisaZaki/OSProject/assets/157314004/74c0b2a0-ba69-4ed8-bda3-2fd46dc1073e">
+
 2. This will run the debian container. To check if the debian container is running, type
 ```bash
 @joeynor ➜ /workspaces/OSProject (main) $ docker ps -a
